@@ -1,0 +1,15 @@
+header{
+    background-color:#03a6be;
+    padding: 40px;
+}
+
+h1{
+    font-size: 90px;
+    color: #ffffff;
+}
+
+header img{
+    border-radius: 150px;
+    width: 300px;
+
+}
